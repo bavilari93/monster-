@@ -52,4 +52,27 @@ body {
     margin-left: 1rem;
     margin-top: -.24rem; }
 
+.face {
+  height: 5rem;
+  width: 5rem;
+  margin-left: 2.5rem;
+  margin-top: 2rem; }
+
+.eyes {
+  background: #FFF;
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 100%;
+  margin-left: -.6rem;
+  margin-top: 1.5rem; }
+
+.iris {
+  position: absolute;
+  background: #59C3C3;
+  height: 1.7rem;
+  width: 1.7rem;
+  border-radius: 100%;
+  margin-top: .4rem;
+  margin-left: .5rem; }
+
 /*# sourceMappingURL=style.css.map */

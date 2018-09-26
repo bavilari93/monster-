@@ -70,3 +70,34 @@ body {
         }
     }
 }
+
+.face{
+	height: 5rem; 
+	width: 5rem;
+	margin: {
+		left: 2.5rem;
+		top: 2rem;
+	}
+}
+
+.eyes{
+	background: #FFF; 
+	height: 2.5rem; 
+	width: 2.5rem; 
+	border-radius: 100%; 
+	margin:{
+		left: -.6rem;
+		top: 1.5rem;
+	}
+}
+.iris{
+position: absolute;
+	background:#59C3C3;
+	height: 1.7rem;
+	width: 1.7rem;
+	border-radius: 100%; 
+	margin:{
+		top: .4rem;
+		left: .5rem;
+	}
+}
